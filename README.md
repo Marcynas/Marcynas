@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Martynas Tvaska</h1>
-<h3 align="center">Information systems student and Data Engineer</h3>
+<h3 align="center">Information Systems student and Data Engineer</h3>
 
 - 🌱 I’m currently learning **Azure and Databricks**
 
