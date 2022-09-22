@@ -32,7 +32,7 @@
 <div>
 
   <img align="left" style="height:108px;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcynas&layout=compact&theme=radical"
     alt="marcynas" />
     
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" /> </a>
