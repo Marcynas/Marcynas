@@ -13,7 +13,7 @@
   </p>
 </div>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3> 
 
 <p float="left">
   <a href="https://twitter.com/marcynas1" target="blank"><img align="center"
