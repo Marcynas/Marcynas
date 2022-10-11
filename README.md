@@ -4,7 +4,7 @@
 <div>
   <p align="left">
 
-  - 📗 I’m currently learning **Prometheus**
+  - 📗 I’m currently learning **Snowflake**
 
   - 📮 How to reach me **MartynasTv@gmail.com**
 
