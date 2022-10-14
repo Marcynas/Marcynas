@@ -1,23 +1,23 @@
 <h1 align="center">
-  <a href="https://github.com/Marcynas=" >
+  <a href="https://github.com/Marcynas" >
     <img align="center" style="height:200px;"
       src="https://github.com/Marcynas/Marcynas/blob/main/hi.png?raw=true"
       alt="Hi 👋, I'm Martynas Tvaska" />
   </a>
 </h1>
 
-<h3 align="left">Information Systems student and Data Engineer</h3>
+<h3 align="center">Information Systems student and Data Engineer</h3>
 
 <div>
-  <p align="left">
+  <div>
 
   - 📗 I’m currently learning **Snowflake** ❄️
 
   - 📮 How to reach me **MartynasTv@gmail.com**
 
-  - ✨ Fun fact **I've never seen "StarWars"**
+  - ✨ Fun fact **I've never seen "StarWars"** 🎬
 
-  </p>
+  </div>
 </div>
 
 <h3 align="left">Connect with me:</h3> 
@@ -40,7 +40,7 @@
 
   <a href="https://github.com/Marcynas?tab=repositories" >
     <img align="left" style="height:108px;"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcynas&layout=compact"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcynas&langs_count=6&layout=compact&theme=synthwave"
       alt="marcynas" />
   </a>
     
@@ -67,11 +67,23 @@
 <p align="left">
   <a href="https://github.com/Marcynas" >
     <img style="width:400px;"
-      src="https://github-readme-stats.vercel.app/api?username=marcynas&show_icons=true&locale=en"
+      src="https://github-readme-stats.vercel.app/api?username=marcynas&show_icons=true&locale=en&theme=synthwave"
       alt="marcynas" />
   </a>
   <a href="https://github.com/Marcynas" >
-  <img style="width:400px;" src="https://github-readme-streak-stats.herokuapp.com/?user=marcynas"
+  <img style="width:400px;" src="https://github-readme-streak-stats.herokuapp.com/?user=marcynas&theme=synthwave"
     alt="marcynas" />
   </a>
 </p>
+
+<h1> </h1>
+
+<div align="center">
+<a href="https://github.com/Marcynas" align="center">
+    <img align="center" style="height:200px;"
+      src="https://github.com/Marcynas/Marcynas/blob/main/bye.png?raw=true"
+      alt="Hi 👋, I'm Martynas Tvaska" />
+</a>
+
+</div>
+
