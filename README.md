@@ -1,4 +1,11 @@
-<h1 align="left">Hi 👋, I'm Martynas Tvaska</h1>
+<h1 align="center">
+  <a href="https://github.com/Marcynas=" >
+    <img align="center" style="height:200px;"
+      src="https://github.com/Marcynas/Marcynas/blob/main/hi.png?raw=true"
+      alt="Hi 👋, I'm Martynas Tvaska" />
+  </a>
+</h1>
+
 <h3 align="left">Information Systems student and Data Engineer</h3>
 
 <div>
