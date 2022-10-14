@@ -31,7 +31,7 @@
 
 <div>
 
-  <a href="https://github.com/Marcynas" >
+  <a href="https://github.com/Marcynas?tab=repositories" >
     <img align="left" style="height:108px;"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcynas&layout=compact"
       alt="marcynas" />
