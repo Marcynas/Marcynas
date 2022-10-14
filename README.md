@@ -40,7 +40,7 @@
 
   <a href="https://github.com/Marcynas?tab=repositories" >
     <img align="left" style="height:108px;"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcynas&langs_count=6&layout=compact&theme=synthwave"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcynas&langs_count=6&layout=compact"
       alt="marcynas" />
   </a>
     
@@ -67,11 +67,11 @@
 <p align="left">
   <a href="https://github.com/Marcynas" >
     <img style="width:400px;"
-      src="https://github-readme-stats.vercel.app/api?username=marcynas&show_icons=true&locale=en&theme=synthwave"
+      src="https://github-readme-stats.vercel.app/api?username=marcynas&show_icons=true&locale=en"
       alt="marcynas" />
   </a>
   <a href="https://github.com/Marcynas" >
-  <img style="width:400px;" src="https://github-readme-streak-stats.herokuapp.com/?user=marcynas&theme=synthwave"
+  <img style="width:400px;" src="https://github-readme-streak-stats.herokuapp.com/?user=marcynas"
     alt="marcynas" />
   </a>
 </p>
