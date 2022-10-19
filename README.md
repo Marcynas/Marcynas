@@ -11,7 +11,7 @@
 <div>
   <div>
 
-  - 📗 I’m currently learning **Snowflake** ❄️ and **DBT**
+  - 📗 I’m currently learning ✨ **Apache Spark** ✨
 
   - 📮 How to reach me **MartynasTv@gmail.com**
 
