@@ -11,7 +11,7 @@
 <div>
   <div>
 
-  - 📗 I’m currently learning ✨ **Apache Spark** ✨
+  - 📗 I’m currently learning **Apache Kafka** 
 
   - 📮 How to reach me **MartynasTv@gmail.com**
 
