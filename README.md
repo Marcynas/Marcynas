@@ -11,7 +11,7 @@
 <div>
   <div>
 
-  - 📗 I’m currently learning **Apache Kafka** 
+  - 📗 I’m currently learning **Tableau** 📊 
 
   - 📮 How to reach me **MartynasTv@gmail.com**
 
