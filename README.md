@@ -82,7 +82,7 @@
 <a href="https://github.com/Marcynas" align="center">
     <img align="center" style="height:200px;"
       src="https://github.com/Marcynas/Marcynas/blob/main/bye.png?raw=true"
-      alt="Hi 👋, I'm Martynas Tvaska" />
+      alt="Bye!" />
 </a>
 
 </div>
