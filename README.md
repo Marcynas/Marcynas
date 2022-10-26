@@ -11,7 +11,7 @@
 <div>
   <div>
 
-  - 📗 I’m currently learning **Tableau** 📊 
+  - 📗 I’m currently learning **AWS** 
 
   - 📮 How to reach me **MartynasTv@gmail.com**
 
