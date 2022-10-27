@@ -11,7 +11,7 @@
 <div>
   <div>
 
-  - 📗 I’m currently learning **AWS** 
+  - 📗 I’m currently learning **stuff for Azure exam DP-203** 
 
   - 📮 How to reach me **MartynasTv@gmail.com**
 
