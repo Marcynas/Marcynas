@@ -6,16 +6,16 @@
   </a>
 </h1>
 
-<h3 align="center">Information Systems student and Data Engineer</h3>
+<h3 align="center">Data Engineer</h3>
 
 <div>
   <div>
 
   - 📗 I’m currently learning **stuff for Azure exam DP-203** 
 
-  - 📮 How to reach me **MartynasTv@gmail.com**
+  - 📮 How to reach me - **MartynasTv@gmail.com**
 
-  - ✨ Fun fact **I've never seen "StarWars"** 🎬
+  - ✨ Fun fact - **Some cats are allergic to humans.** 🐈
 
   </div>
 </div>
