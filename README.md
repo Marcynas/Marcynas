@@ -64,20 +64,6 @@
 
 <h1> </h1>
 
-<p align="left">
-  <a href="https://github.com/Marcynas" >
-    <img style="width:400px;"
-      src="https://github-readme-stats.vercel.app/api?username=marcynas&show_icons=true&locale=en"
-      alt="marcynas" />
-  </a>
-  <a href="https://github.com/Marcynas" >
-  <img style="width:400px;" src="https://github-readme-streak-stats.herokuapp.com/?user=marcynas"
-    alt="marcynas" />
-  </a>
-</p>
-
-<h1> </h1>
-
 <div align="center">
 <a href="https://github.com/Marcynas" align="center">
     <img align="center" style="height:200px;"
